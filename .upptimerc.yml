@@ -20,7 +20,7 @@ user-agent: SebaYB
 
 status-website:
   cname: status.haworth-rp.com
-  theme: dark
+  theme: night
   logoUrl: https://media.discordapp.net/attachments/1069721282435883119/1072015861617012756/falklandstrazo.png?width=325&height=325
   favicon: https://media.discordapp.net/attachments/1069721282435883119/1069722844193366117/Sin_titulo-1.png?width=325&height=325
   name: Haworth Roleplay - Status
