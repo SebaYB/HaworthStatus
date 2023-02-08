@@ -19,23 +19,95 @@ assignees:
 user-agent: SebaYB
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.haworth-rp.com
   theme: dark
-  # baseUrl: /HaworthStatus
   logoUrl: https://media.discordapp.net/attachments/1069721282435883119/1072015861617012756/falklandstrazo.png?width=325&height=325
   favicon: https://media.discordapp.net/attachments/1069721282435883119/1069722844193366117/Sin_titulo-1.png?width=325&height=325
-  name: Haworth Roleplay
+  name: Haworth Roleplay - Status
   introTitle: "En **Haworth** Status podrás ver el estado de nuestros servidores."
   introMessage: Los estados se encuentran en **tiempo real**, puedes suscribirte al repositorio de GitHub para ser notificado al instante.
   navbar:
     - title: Haworth Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Haworth Roleplay
+      href: https://haworth-rp.com/
     - title: Discord
       href: https://discord.com/invite/haworth/
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n: 
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas funcionan correctamente
+  degradedPerformance: Rendimiento con interrupciones
+  completeOutage: Completamente inactivo
+  partialOutage: Interrupción parcial
+  incidentReport: "Incidente #$NUMBER →"
+  activeIncidentSummary: Abierto el $DATE con $POSTS posts
+  incidentTitle: Detalles del incidente $NUMBER 
+  incidentDetails: Detalles del incidente
+  incidentFixed: Arreglado
+  incidentOngoing: En curso
+  incidentOpenedAt: Abierto a las
+  incidentClosedAt: Cerrado a las
+  incidentViewOnGitHub: Ver y suscribirse en GitHub
+  incidentCommentSummary: Posted el $DATE por $AUTHOR
+  incidentBack: ← Volver a todos los incidentes
+  pastIncidents: Incidentes pasados
+  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS posts
+  liveStatus: Estado en tiempo real
+  overallUptime: "Tiempo de actividad general: $UPTIME"
+  overallUptimeTitle: Tiempo de actividad general
+  averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
+  averageResponseTimeTitle: Respuesta promedio
+  sevelDayResponseTime: Tiempo de respuesta últimos 7 días
+  responseTimeMs: Tiempo de respuesta (ms)
+  ms: ms
+  loading: Cargando
+  navGitHub: GitHub
+  footer: Powered by [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Excede el límite de velocidad
+  rateLimitExceededIntro: Ha superado el número de solicitudes que puede realizar en una hora, por lo que tendrá que esperar antes de volver a acceder a este sitio web. Alternativamente, puede agregar un token de acceso personal de GitHub para continuar usando este sitio web.
+  rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
+  rateLimitExceededErrorMeaning: Este sitio web utiliza la API de GitHub para acceder a datos en tiempo real sobre el estado de nuestros sitios web. De manera predeterminada, GitHub permite que cada dirección IP realice 60 solicitudes por hora, las que ha consumido.
+  rateLimitExceededErrorHowCanFix: ¿Cómo puedo arreglarlo?
+  rateLimitExceededErrorFix: Puede esperar otra hora y se restablecerá el límite de su dirección IP. Como alternativa, puede agregar su token de acceso personal de GitHub, que le brinda 5000 solicitudes adicionales por hora.
+  rateLimitExceededGeneratePAT: Aprenda a generar un Personal Access Token.
+  rateLimitExceededHasSet: Ya tienes un Personal Access Token colocado.
+  rateLimitExceededRemoveToken: Eliminar token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copia y pega tu token
+  rateLimitExceededSaveToken: Guardar token
+  errorTitle: Ha ocurrido un error
+  errorIntro: Se produjo un error al intentar obtener los detalles de estado más recientes.
+  errorText: Puedes volver a intentarlo en unos momentos.
+  errorHome: Ir al inicio
+  pastScheduledMaintenance: Mantenimiento programado pasado
+  scheduledMaintenance: Mantenimiento programado
+  scheduledMaintenanceSummaryStarted: Iniciado el $DATE por $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Inicia el $DATE por $DURATION minutos
+  startedAt: Iniciado el
+  startsAt: Inicia el
+  duration: Duración
+  durationMin: $DURATION minutos
+  incidentCompleted: Completado
+  incidentScheduled: Programado
+  duration24H: 24h
+  duration7D: 7d
+  duration30D: 30d
+  duration1Y: 1y
+  durationAll: todo
+  url: URL # i18n README.md
+  status: Estado
+  responseTime: Tiempo de respuesta
+  up: 🟩 Activo
+  degraded: 🟨 Con interrupciones
+  down: 🟥 Inactivo
+  responseTimeGraphAlt: Gráfico de tiempo de respuesta
+  responseTimeDay: Tiempo de respuesta últimas 24 horas
+  responseTimeWeek: Tiempo de respuesta últimos 7 días
+  responseTimeMonth: Tiempo de respuesta últimos 30 días
+  responseTimeYear: Tiempo de respuesta último año
+  uptime: Tiempo de actividad
+  uptimeDay: Tiempo de actividad últimas 24 horas
+  uptimeWeek: Tiempo de actividad últimos 7 días
+  uptimeMonth: Tiempo de actividad últimos 30 días
+  uptimeYear: Tiempo de actividad último año
