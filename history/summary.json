@@ -4,61 +4,67 @@
     "url": "https://haworth-rp.com",
     "icon": "https://icons.duckduckgo.com/ip3/haworth-rp.com.ico",
     "slug": "haworth-landing-page",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 495,
     "timeDay": 495,
     "timeWeek": 495,
     "timeMonth": 495,
     "timeYear": 495,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-09": 0
+    }
   },
   {
     "name": "Haworth Foro",
     "url": "https://foro.haworth-rp.com",
     "icon": "https://icons.duckduckgo.com/ip3/foro.haworth-rp.com.ico",
     "slug": "haworth-foro",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1038,
     "timeDay": 1038,
     "timeWeek": 1038,
     "timeMonth": 1038,
     "timeYear": 1038,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-09": 0
+    }
   },
   {
     "name": "Haworth Foro Law",
     "url": "https://law.haworth-rp.com",
     "icon": "https://icons.duckduckgo.com/ip3/law.haworth-rp.com.ico",
     "slug": "haworth-foro-law",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 965,
     "timeDay": 965,
     "timeWeek": 965,
     "timeMonth": 965,
     "timeYear": 965,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-09": 0
+    }
   },
   {
     "name": "Haworth Roleplay - v1.0.1",
     "url": "https://samp.haworth-rp.com",
     "icon": "https://icons.duckduckgo.com/ip3/samp.haworth-rp.com.ico",
     "slug": "haworth-roleplay-v1-0-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 481,
     "timeMonth": 481,
     "timeYear": 481,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-09": 0
+    }
   }
 ]
